@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @benya72
+- 👋 Hi, I’m @benya4032
 - 👀 I’m interested in software development!
 - 🌱 I’m currently learning web concepts and libraries, nextjs and typescript.
 - 💞️ I’m looking to collaborate on web3 ecosystem and new libraries for development in typescript.
